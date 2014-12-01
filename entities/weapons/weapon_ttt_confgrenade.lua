@@ -5,7 +5,7 @@ SWEP.HoldType = "grenade"
 
 
 if CLIENT then
-   SWEP.PrintName = "Discombobulator"
+   SWEP.PrintName = "Discobomb"
    SWEP.Slot = 3
    SWEP.SlotPos	= 0
 
